@@ -1,1 +1,0 @@
-"""HomePad API Application Package."""
